@@ -36,8 +36,10 @@ This project was developed and tested in Google Colab to utilize fast cloud-base
 Install the required quantum chemistry and simulation libraries:
 
 2.
-pip install qulacs pyscf openfermion openfermionpyscf
+   ```bash
+   pip install qulacs pyscf openfermion openfermionpyscf
 Execute the main script to run the benchmark:
 
 3.
-python main.py
+   ```bash
+   python main.py
