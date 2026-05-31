@@ -1,4 +1,4 @@
-Optimizer,Final Energy,Final Error,Total Evals,Time (s),Evals to Chem. Acc.
+Optimizer,Molecule,Final Energy,Final Error,Total Evals
 Velocity Verlet,LiH,-7.862050,2.03e-02,19241
 Adaptive VV,LiH,-7.734608,1.47e-01,18281
 L-BFGS-B,LiH,-7.861217,2.11e-02,11127
